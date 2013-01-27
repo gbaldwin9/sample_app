@@ -15,6 +15,8 @@ describe "StaticPages" do
 			:text => "Ruby on Rails Tutorial Sample App | Home")
 	
 	end
+
+		
   end
 
 describe "Help page" do
@@ -46,7 +48,6 @@ describe "About page" do
 			:text => "Ruby on Rails Tutorial Sample App | About Us")
 
 	end
-
 
 end
 
